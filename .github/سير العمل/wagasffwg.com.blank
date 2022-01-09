@@ -1,4 +1,7 @@
-# This is a basic workflow to help you get started with Actions
+# 1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-wagasffwg.wagasffwg.com
+2. Use this code for the value of the TXT record: 5e900d55be61a11d6762843ef4d640
+3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
+  
 
 name: CI
 
